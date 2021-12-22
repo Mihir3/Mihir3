@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Mihir3/Mihir3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: **he/him**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1q6SFox4M9s64d2JVSIgSfUEUzdGV-C4m/view?usp=drivesdk)
+- 📄 Know about my experiences [**here**](https://drive.google.com/file/d/1q6SFox4M9s64d2JVSIgSfUEUzdGV-C4m/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
