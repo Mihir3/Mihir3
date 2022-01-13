@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mihir Pamnani</h1>
 <h3 align="center">A passionate software developer and data-science enthusiast from India.</h3>
 
-- 🔭 I’m currently working on **a YOLO-CNN Hazmat Sign Detector using Darknet and OpenCV.**
+- 🔭 I’m currently working on **a YOLO-CNN Hazmat Sign Detector using Pytorch and OpenCV.**
 
-- 🌱 I’m currently learning **Web Dev : React and Node.js; ML/DL : Hyper-parameter tuning for Neural networks and Pytorch**
+- 🌱 I’m currently learning **Dev : React Native and Node.js; ML/DL : Hyper-parameter tuning for Neural networks.**
 
 - 👯 I’m looking to collaborate on **front-end and machine learning projects.**
 
