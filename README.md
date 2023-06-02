@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on **  ** -->
 
-- 🌱 My areas of interest lie within ** data science and machine learning dealing with applications in Natural Language Processing and Computer Vision.** 
+- 🌱 My areas of interest lie within **data science and machine learning dealing with applications in Natural Language Processing and Computer Vision.** 
 
-- 👯 I’m looking to collaborate on **front-end and machine learning projects.**
+<!-- - 👯 I’m looking to collaborate on **front-end and machine learning projects.** -->
 
 - 🤝 I’m looking for help with **finding work opportunities and research internships.**
 
