@@ -17,19 +17,19 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mihir Pamnani</h1>
 <h3 align="center">A passionate software developer and data-science enthusiast from India.</h3>
 
-- 🔭 I’m currently working on **a YOLO-CNN Hazmat Sign Detector using Pytorch and OpenCV.**
+<!-- - 🔭 I’m currently working on **  ** -->
 
-- 🌱 I’m currently learning **Dev : React Native and Node.js; ML/DL : Hyper-parameter tuning for Neural networks.**
+- 🌱 My areas of interest lie within ** data science and machine learning dealing with applications in Natural Language Processing and Computer Vision.** 
 
 - 👯 I’m looking to collaborate on **front-end and machine learning projects.**
 
-- 🤝 I’m looking for help with **finding remote work opportunities and research mentors.**
+- 🤝 I’m looking for help with **finding work opportunities and research internships.**
 
 - 📫 How to reach me : **mihirpamnani31@gmail.com**
 
 - 😄 Pronouns: **he/him**
 
-- 📄 Know about my experiences [**here**](https://drive.google.com/file/d/1rQScLIDi_QE5f2dZXa_8p75pZ4HWY99_)
+- 📄 Know about my experiences [**here**](https://drive.google.com/file/d/1Lh57cMY2L8j5yJctbU6Q_CjFgs7IFrtF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
