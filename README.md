@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Mihir Pamnani</h1>
-<h3 align="center">A passionate software developer and data-science enthusiast from India.</h3>
+<!-- <h3 align="center">A passionate Data Scientist from India.</h3> -->
 
 <!-- - 🔭 I’m currently working on **  ** -->
 
