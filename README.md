@@ -17,19 +17,19 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mihir Pamnani</h1>
 <!-- <h3 align="center">A passionate Data Scientist from India.</h3> -->
 
-<!-- - 🔭 I’m currently working on **  ** -->
+- 🔭 I’m currently pursuing my Master's in Computer Science at **University of Illinois Urbana-Champaign.** 
 
-- 🌱 My areas of interest lie within **data science and machine learning dealing with applications in Natural Language Processing and Computer Vision.** 
+- 🌱 My areas of interest are **data science and machine learning.** 
 
 <!-- - 👯 I’m looking to collaborate on **front-end and machine learning projects.** -->
 
-- 🤝 I’m looking for help with **finding work opportunities and research internships.**
+- 🤝 I’m actively looking for **finding Summer 2024 internships in US!**
 
-- 📫 How to reach me : **mihirpamnani31@gmail.com**
+- 📫 How to reach me: **mihirpamnani31@gmail.com**
 
 - 😄 Pronouns: **he/him**
 
-- 📄 Know about my experiences [**here**](https://drive.google.com/file/d/1j-AC5UU5JOZXTNJ1lEXalufZkmGdPR5n/view?usp=sharing)
+- 📄 Know about my experiences [**here**](https://docs.google.com/document/d/1nxLGP1aFs8xxtQ872iss8KGw_OqZgdyQz6BVOs7VQK4/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
