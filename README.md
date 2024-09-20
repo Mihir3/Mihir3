@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: **he/him**
 
-- 📄 Know about my experiences [**here**](https://docs.google.com/document/d/1nxLGP1aFs8xxtQ872iss8KGw_OqZgdyQz6BVOs7VQK4/pub)
+- 📄 Know about my experiences [**here**](https://docs.google.com/document/d/1nxLGP1aFs8xxtQ872iss8KGw_OqZgdyQz6BVOs7VQK4/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
