@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <!-- - 👯 I’m looking to collaborate on **front-end and machine learning projects.** -->
 
-- 🤝 I’m actively looking for **finding Summer 2024 internships in US!**
+- 🤝 I’m actively looking for **finding full-time roles from May 2025 in US!**
 
 - 📫 How to reach me: **mihirpamnani31@gmail.com**
 
 - 😄 Pronouns: **he/him**
 
-- 📄 Know about my experiences [**here**](https://drive.google.com/file/d/12bEIHsxrOCZitHBVnLZpcoTXhwA9xf_U/preview)
+- 📄 Know about my experiences [**here**](https://docs.google.com/document/d/1nxLGP1aFs8xxtQ872iss8KGw_OqZgdyQz6BVOs7VQK4/pub)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
